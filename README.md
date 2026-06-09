@@ -3,7 +3,6 @@
 **Course:** Smart Grids — Rutgers University, New Brunswick  
 **Instructor:** Prof. Amin Mahmoud  
 **Author:** Devanshu Shrivastava  
-**Date:** October 2026
 
 ---
 
